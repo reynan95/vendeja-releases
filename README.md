@@ -7,8 +7,8 @@ Repositório público dedicado exclusivamente à distribuição oficial de biná
 - Link direto (Latest): https://github.com/reynan95/vendeja-releases/releases/latest/download/VendeJa-WhatsApp.apk
 - Página de Releases: https://github.com/reynan95/vendeja-releases/releases
 
-## Verificação de integridade (v1.3.3 / build 10)
+## Verificação de integridade (v1.3.4 / build 11)
 
 - Arquivo: `VendeJa-WhatsApp.apk`
-- Tamanho: `32104638` bytes (30,62 MB)
-- SHA-256: `a0238a6ad886c2d96e54c23df604a5b050b828b4dcd252a87f1a16c41b329728`
+- Tamanho: `32110934` bytes (30,62 MB)
+- SHA-256: `0774cd6504f3b7fcb1ac744e170cfb0f89db888105a067c46bde74a6d76a9750`
